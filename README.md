@@ -8,7 +8,7 @@ If you're getting an error such as:
 
 ```
 Please make sure you have the correct access rights and the repository exists.
-Failed to clone "git@github.com:/classroom50/cash-USERNAME".
+Failed to clone "git@github.com:/classroom50/credit-USERNAME".
 ```
 
 Make sure you've accepted the assignment on GitHub classroom! https://classroom.github.com/a/RIaa0AYw
